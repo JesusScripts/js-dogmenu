@@ -1,8 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Jesus'
-description 'DOGMENU'
+author 'SaltyGrandpa'
 
 client_scripts {
 	'client.lua'
